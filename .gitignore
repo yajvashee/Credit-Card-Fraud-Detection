@@ -1,2 +1,6 @@
 creditcard.csv
+*.db
 
+.venv/
+
+.ipynb_checkpoints/
