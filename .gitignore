@@ -4,3 +4,4 @@ creditcard.csv
 .venv/
 
 .ipynb_checkpoints/
+mlruns/
